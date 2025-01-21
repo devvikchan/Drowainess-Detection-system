@@ -1,4 +1,4 @@
-# Drowainess-Detection-system\
+# Drowsiness-Detection-system\
 In this project, we will use transfer learning to build the model. Transfer Learning is a machine learning method where we use a pre-trained model for a new model with the related problem statement.
 The methodology of this project is the first video is captured using a webcam and from the video first face is detected using the Harcascade algorithm and then the eyes are detected. Then we use our deep learning model which is built using transfer learning to know the status of the eye. If it is an open eye then it will say Active and if it is a closed eye then it will check for a few seconds and then it will say the driver is drowsy and will beep an alarm.
 
